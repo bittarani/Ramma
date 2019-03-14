@@ -14,7 +14,7 @@ public class TestBase {
 	public static WebDriver driver;
 	public static Properties prop;
 	
-	public TestBase() {
+	public TestBase(){
 		try {
 			prop = new Properties();
 			FileInputStream ip = new FileInputStream("C:/Users/vivth/Rally/src/main/java/com/rally/config/config.properties" );
@@ -37,7 +37,7 @@ public class TestBase {
 		
 		driver.get(prop.getProperty("url"));
 		driver.manage().window().maximize();
-		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(20,TimeUnit.SECONDS);
 	}
 	
 
