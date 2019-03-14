@@ -1,0 +1,69 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test",
+    "children" : [ {
+      "name" : "DashboardTest",
+      "children" : [ {
+        "name" : "Login",
+        "uid" : "e4e8bb509ca81f8c",
+        "parentUid" : "98cdf585f32efee95a0cda58ed5ce5f9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552524335822,
+          "stop" : 1552524336856,
+          "duration" : 1034
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "98cdf585f32efee95a0cda58ed5ce5f9"
+    }, {
+      "name" : "TeamPlanningPageTest",
+      "children" : [ {
+        "name" : "clickMenubutton",
+        "uid" : "24337f6d5d6a818d",
+        "parentUid" : "5b96fc50b8d9ee79c15807c3732b3cf5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552524337032,
+          "stop" : 1552524339366,
+          "duration" : 2334
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "isTeamplanningButtonclicked",
+        "uid" : "5012d87db2116176",
+        "parentUid" : "5b96fc50b8d9ee79c15807c3732b3cf5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552524339378,
+          "stop" : 1552524340399,
+          "duration" : 1021
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shutDownPage",
+        "uid" : "a418ed2b90f66efd",
+        "parentUid" : "5b96fc50b8d9ee79c15807c3732b3cf5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1552524340679,
+          "stop" : 1552524340680,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5b96fc50b8d9ee79c15807c3732b3cf5"
+    } ],
+    "uid" : "d662795e8d349f9b5595bf62f43ea7ae"
+  } ]
+}

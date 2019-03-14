@@ -1,0 +1,65 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-3M5A5R3N",
+    "children" : [ {
+      "name" : "11824@LAPTOP-3M5A5R3N.main(1)",
+      "children" : [ {
+        "name" : "isTeamplanningButtonclicked",
+        "uid" : "5012d87db2116176",
+        "parentUid" : "984090cf93c0e693c84583a8c7d63901",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552524339378,
+          "stop" : 1552524340399,
+          "duration" : 1021
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Login",
+        "uid" : "e4e8bb509ca81f8c",
+        "parentUid" : "984090cf93c0e693c84583a8c7d63901",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552524335822,
+          "stop" : 1552524336856,
+          "duration" : 1034
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shutDownPage",
+        "uid" : "a418ed2b90f66efd",
+        "parentUid" : "984090cf93c0e693c84583a8c7d63901",
+        "status" : "broken",
+        "time" : {
+          "start" : 1552524340679,
+          "stop" : 1552524340680,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "clickMenubutton",
+        "uid" : "24337f6d5d6a818d",
+        "parentUid" : "984090cf93c0e693c84583a8c7d63901",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552524337032,
+          "stop" : 1552524339366,
+          "duration" : 2334
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "984090cf93c0e693c84583a8c7d63901"
+    } ],
+    "uid" : "ce54ddea1fb79f24308fe44bf518f57c"
+  } ]
+}

@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Mar 13 20:45:39 EDT 2019","Wed Mar 13 20:45:40 EDT 2019","1021","Command line suite","Command line test","test.TeamPlanningPageTest","test.TeamPlanningPageTest","isTeamplanningButtonclicked","isTeamplanningButtonclicked",""
+"passed","Wed Mar 13 20:45:35 EDT 2019","Wed Mar 13 20:45:36 EDT 2019","1034","Command line suite","Command line test","test.DashboardTest","test.DashboardTest","Login","Login",""
+"broken","Wed Mar 13 20:45:40 EDT 2019","Wed Mar 13 20:45:40 EDT 2019","1","Command line suite","Command line test","test.TeamPlanningPageTest","test.TeamPlanningPageTest","shutDownPage","shutDownPage",""
+"passed","Wed Mar 13 20:45:37 EDT 2019","Wed Mar 13 20:45:39 EDT 2019","2334","Command line suite","Command line test","test.TeamPlanningPageTest","test.TeamPlanningPageTest","clickMenubutton","clickMenubutton",""

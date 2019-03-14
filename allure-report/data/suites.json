@@ -1,0 +1,73 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Command line suite",
+    "children" : [ {
+      "name" : "Command line test",
+      "children" : [ {
+        "name" : "test.DashboardTest",
+        "children" : [ {
+          "name" : "Login",
+          "uid" : "e4e8bb509ca81f8c",
+          "parentUid" : "0e5f3db3f9d9757e56ccf22420c6ad1b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1552524335822,
+            "stop" : 1552524336856,
+            "duration" : 1034
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "0e5f3db3f9d9757e56ccf22420c6ad1b"
+      }, {
+        "name" : "test.TeamPlanningPageTest",
+        "children" : [ {
+          "name" : "clickMenubutton",
+          "uid" : "24337f6d5d6a818d",
+          "parentUid" : "059150b50f4a0955ac9a41969188922c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1552524337032,
+            "stop" : 1552524339366,
+            "duration" : 2334
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "isTeamplanningButtonclicked",
+          "uid" : "5012d87db2116176",
+          "parentUid" : "059150b50f4a0955ac9a41969188922c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1552524339378,
+            "stop" : 1552524340399,
+            "duration" : 1021
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "shutDownPage",
+          "uid" : "a418ed2b90f66efd",
+          "parentUid" : "059150b50f4a0955ac9a41969188922c",
+          "status" : "broken",
+          "time" : {
+            "start" : 1552524340679,
+            "stop" : 1552524340680,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "059150b50f4a0955ac9a41969188922c"
+      } ],
+      "uid" : "d25b44baf1a59b2ba9e824375ad84458"
+    } ],
+    "uid" : "a3ebd3885f734b5e692af432fe3ee17b"
+  } ]
+}

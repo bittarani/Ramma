@@ -1,0 +1,13 @@
+[ {
+  "buildOrder" : 1,
+  "reportUrl" : "http://localhost:8080/job/Pap/1/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 1,
+    "skipped" : 0,
+    "passed" : 3,
+    "unknown" : 0,
+    "total" : 4
+  }
+} ]

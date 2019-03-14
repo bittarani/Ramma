@@ -1,0 +1,41 @@
+[ {
+  "uid" : "5012d87db2116176",
+  "name" : "isTeamplanningButtonclicked",
+  "time" : {
+    "start" : 1552524339378,
+    "stop" : 1552524340399,
+    "duration" : 1021
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4e8bb509ca81f8c",
+  "name" : "Login",
+  "time" : {
+    "start" : 1552524335822,
+    "stop" : 1552524336856,
+    "duration" : 1034
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a418ed2b90f66efd",
+  "name" : "shutDownPage",
+  "time" : {
+    "start" : 1552524340679,
+    "stop" : 1552524340680,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "24337f6d5d6a818d",
+  "name" : "clickMenubutton",
+  "time" : {
+    "start" : 1552524337032,
+    "stop" : 1552524339366,
+    "duration" : 2334
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

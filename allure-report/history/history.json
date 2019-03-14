@@ -1,0 +1,83 @@
+{
+  "f12bb13e40376389d32bbcb1095e0dab" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e4e8bb509ca81f8c",
+      "reportUrl" : "http://localhost:8080/job/Pap/1/allure/#testresult/e4e8bb509ca81f8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1552524335822,
+        "stop" : 1552524336856,
+        "duration" : 1034
+      }
+    } ]
+  },
+  "413b869dce635f78336d4ef302cea877" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a418ed2b90f66efd",
+      "reportUrl" : "http://localhost:8080/job/Pap/1/allure/#testresult/a418ed2b90f66efd",
+      "status" : "broken",
+      "statusDetails" : "invalid session id\n  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'LAPTOP-3M5A5R3N', ip: '192.168.2.20', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.45.615291 (ec3682e3c9061c..., userDataDir: C:\\WINDOWS\\TEMP\\scoped_dir4...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:59678}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.121, webStorageEnabled: true}\nSession ID: 2d9b3270eb343f084290b4313ad43886",
+      "time" : {
+        "start" : 1552524340679,
+        "stop" : 1552524340680,
+        "duration" : 1
+      }
+    } ]
+  },
+  "d8f0102d74912939d6d60bea463c4795" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "24337f6d5d6a818d",
+      "reportUrl" : "http://localhost:8080/job/Pap/1/allure/#testresult/24337f6d5d6a818d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1552524337032,
+        "stop" : 1552524339366,
+        "duration" : 2334
+      }
+    } ]
+  },
+  "b4add82b41ca1b434b3e2a0c666dbf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5012d87db2116176",
+      "reportUrl" : "http://localhost:8080/job/Pap/1/allure/#testresult/5012d87db2116176",
+      "status" : "passed",
+      "time" : {
+        "start" : 1552524339378,
+        "stop" : 1552524340399,
+        "duration" : 1021
+      }
+    } ]
+  }
+}
